@@ -81,6 +81,10 @@ resource_pools:
   cloud_properties:
     name: random
 
+- name: logsearch_curator
+  cloud_properties:
+    name: random
+
 networks: (( merge || networks_default ))
 networks_default:
 - name: default
