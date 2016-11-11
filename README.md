@@ -1,3 +1,5 @@
+# Out of Maintenance: This repository is no longer maintained. Please go to https://github.com/cloudfoundry-community/logsearch-boshrelease instead.
+
 # Logsearch
 
 A scalable stack of [Elasticsearch](http://www.elasticsearch.org/overview/elasticsearch/),
